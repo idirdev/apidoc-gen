@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/apidoc-gen",
+  "version": "1.0.0",
+  "description": "Generate API documentation from JSDoc comments in source files",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/apidoc-gen.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "apidoc-gen": "bin/cli.js"
+  }
+}

@@ -18,5 +18,9 @@
   },
   "bin": {
     "apidoc-gen": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/apidoc-gen",
+  "bugs": {
+    "url": "https://github.com/idirdev/apidoc-gen/issues"
   }
 }
